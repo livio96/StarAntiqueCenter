@@ -1,0 +1,17 @@
+input[type=submit] {
+    padding:5px 15px; 
+    background:#CCC; 
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+    
+}
+
+.categories {
+    position: absolute; 
+    top: 80px; 
+    left: 10px; 
+    font-size: 40px;
+}
+
